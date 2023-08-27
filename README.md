@@ -157,5 +157,12 @@ git diff main
 <br>
 it will compair two branches 
 <br>
+<br>
 
+
+git pull origin main
+<br>
+it will merge code according to repo
+<br>
+<br>
 
