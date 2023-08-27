@@ -124,3 +124,38 @@ add
 commit
   |
 push
+
+<br>
+<br>
+
+git checkout -b branchName
+<br>
+create new a branch
+<br>
+<br>
+
+
+git checkout branchName
+<br>
+this is change you branch active position 
+<br>
+means if you are the branch1 and with the help of this code you will be go on branch1
+<br>
+<br>
+
+git checkout -d branchName
+<br>
+now you have to delete your branch
+<br>
+but you can delete your active position branch
+<br>
+Means if you are active on branch main that time you can't delete this branch
+<br>
+<br>
+
+git diff main
+<br>
+it will compair two branches 
+<br>
+
+
