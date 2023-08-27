@@ -153,5 +153,9 @@ Means if you are active on branch main that time you can't delete this branch
 <br>
 <br>
 
+git diff main
+<br>
+it will compair two branches 
+<br>
 
 
