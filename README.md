@@ -164,5 +164,17 @@ git pull origin main
 <br>
 it will merge code according to repo
 <br>
+download code repo to local code
 <br>
+<br>
+
+
+git merge branchName
+<br>
+it will merge two branches
+<br>
+branchName will be marge no current branch
+<br>
+<br>
+
 
